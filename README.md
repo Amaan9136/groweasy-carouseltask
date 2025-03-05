@@ -4,7 +4,7 @@
 This project is built using Next.js and GSAP, replicating the provided reference video animation. It includes smooth transitions and a Play/Pause button for better control.
 
 ## Demo
-[Live Demo](https://drive.google.com/file/d/1wo6FpJpVVh7vQYCFOrpGvYEFzTAMCT2a/)
+[Live Demo](https://drive.google.com/file/d/1wo6FpJpVVh7vQYCFOrpGvYEFzTAMCT2a/view?usp=drive_link)
 
 ## Features
 - Built with Next.js 15
