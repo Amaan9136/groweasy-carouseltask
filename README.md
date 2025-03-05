@@ -1,4 +1,4 @@
-# groweasy-carouseltask
+# Groweasy Corousel Task
 
 ## Overview
 This project is built using Next.js and GSAP, replicating the provided reference video animation. It includes smooth transitions and a Play/Pause button for better control.
