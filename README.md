@@ -17,3 +17,12 @@ This project is built using Next.js and GSAP, replicating the provided reference
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/groweasy-carouseltask.git
+   ```
+2. Install and Run
+   ```bash
+   npm install
+   ```
+   ```bash
+   npm run dev
+   ```
+   
